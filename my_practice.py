@@ -51,9 +51,16 @@ def main():
     .st-emotion-cache-h4xjwg.ezrtsby2{
         height: 0rem;
     }
-    .block-container st-emotion-cache-1jicfl2 ea3mdgi5{
-        padding: 0rem 0rem 0rem;
-    }
+    .st-emotion-cache-1jicfl2 {
+        width: 100%;
+        
+        padding-top: 0rem;
+        padding-right: 1rem;
+        padding-bottom: 10rem;
+        padding-left: 1rem;
+        min-width: auto;
+        max-width: initial;
+}
     
     
     
