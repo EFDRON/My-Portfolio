@@ -9,8 +9,7 @@ api_key=st.secrets["GOOGLE_API_KEY"]
 genai.configure(api_key=api_key)
 
 model = genai.GenerativeModel('gemini-1.5-flash')
-
- st.markdown("""
+st.markdown("""
     <style>
     .st-emotion-cache-1p1m4ay.e3g6aar0{
         visibility:hidden;
