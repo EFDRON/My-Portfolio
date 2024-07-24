@@ -80,12 +80,7 @@ def main():
         gap: 1rem;
     }
 
-    .st-emotion-cache-ocqkz7 img {
-        width: 300px; /* Set the desired width */
-        height: 200px; /* Set the desired height */
-        object-fit: cover; /* Cover the container without distortion */
-        border-radius: 5px; /* Optional: Add border radius for rounded corners */
-    }
+ 
 
     .st-emotion-cache-ocqkz7 img {
         width: 300px;
@@ -93,7 +88,12 @@ def main():
         object-fit: cover;
         border-radius: 5px;
 }
-    
+    .st-emotion-cache-ocqkz7 img {
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 5px;
+}
     
     
     </style>
