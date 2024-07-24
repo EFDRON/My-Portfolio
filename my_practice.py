@@ -48,6 +48,9 @@ def main():
         visibility: hidden;
         
     }
+    .st-emotion-cache-h4xjwg.ezrtsby2{
+        height: 0rem;
+    }
     
     
     </style>
