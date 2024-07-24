@@ -9,17 +9,16 @@ api_key=st.secrets["GOOGLE_API_KEY"]
 genai.configure(api_key=api_key)
 
 model = genai.GenerativeModel('gemini-1.5-flash')
+
+
 st.markdown("""
     <style>
-    .st-emotion-cache-1pbsqtx{
-        visibility:hidden;
-    
+    .st-emotion-cache-czk5ss.e16jpq800{
+        visibility: hidden;
     }
     
     </style>
     """, unsafe_allow_html=True)
-st-emotion-cache-1p1m4ay e3g6aar0
-
 def text_generator(text):
     # response = "Sanadek is a user-friendly geospatial data platform designed to make complex data accessible and actionable. Through interactive maps, charts, and graphs, users can explore datasets with ease, uncovering trends and patterns that drive informed decision-making."
     for word in text.split():
