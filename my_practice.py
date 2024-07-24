@@ -86,6 +86,13 @@ def main():
         object-fit: cover; /* Cover the container without distortion */
         border-radius: 5px; /* Optional: Add border radius for rounded corners */
     }
+
+    .st-emotion-cache-ocqkz7 img {
+        width: 300px;
+        height: 400px;
+        object-fit: cover;
+        border-radius: 5px;
+}
     
     
     
