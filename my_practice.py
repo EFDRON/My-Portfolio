@@ -11,7 +11,7 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-1.5-flash')
 st.markdown("""
     <style>
-    .st-emotion-cache-1p1m4ay.e3g6aar0{
+    .st-emotion-cache-1pbsqtx{
         visibility:hidden;
     
     }
