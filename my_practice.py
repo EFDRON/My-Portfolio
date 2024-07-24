@@ -33,9 +33,13 @@ def main():
 
     st.markdown("""
     <style>
+    .st-emotion-cache-1p1m4ay.e3g6aar0{
+        visibility: hidden;
+    }
     .st-emotion-cache-czk5ss.e16jpq800{
         visibility: hidden;
     }
+    
     
     </style>
     """, unsafe_allow_html=True)
