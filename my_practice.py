@@ -82,17 +82,20 @@ def main():
 
  
 
-    .st-emotion-cache-ocqkz7 img {
-        width: 300px;
-        height: 400px;
-        object-fit: cover;
-        border-radius: 5px;
-}
+
     .st-emotion-cache-ocqkz7 img {
         width: 300px;
         height: 200px;
         object-fit: cover;
         border-radius: 5px;
+}
+
+    .st-emotion-cache-ocqkz7 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    align-items: self-end;
+    gap: 1rem;
 }
     
     
