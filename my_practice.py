@@ -71,6 +71,21 @@ def main():
         min-width: auto;
         max-width: initial;
 }
+
+    .st-emotion-cache-ocqkz7 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-grow: 1;
+        align-items: stretch;
+        gap: 1rem;
+    }
+
+    .st-emotion-cache-ocqkz7 img {
+        width: 200px; /* Set the desired width */
+        height: 200px; /* Set the desired height */
+        object-fit: cover; /* Cover the container without distortion */
+        border-radius: 5px; /* Optional: Add border radius for rounded corners */
+    }
     
     
     
