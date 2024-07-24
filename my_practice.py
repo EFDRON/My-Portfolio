@@ -61,6 +61,16 @@ def main():
         min-width: auto;
         max-width: initial;
 }
+
+    .st-emotion-cache-7tauuy {
+        width: 100%;
+        padding-top: 0rem;
+        padding-right: 1rem;
+        padding-bottom: 1rem;
+
+        min-width: auto;
+        max-width: initial;
+}
     
     
     
