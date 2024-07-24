@@ -124,7 +124,7 @@ def main():
 
 
         with col2:
-            st.image("images/profile3.png")
+            st.image("images/profile3 (1).png")
             # Define the CSS for the hover effect
 
             # Inject the CSS into the Streamlit app
