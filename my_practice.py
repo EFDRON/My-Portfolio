@@ -170,17 +170,18 @@ def main():
             st.write("Object Detection & Recognition")
             st.markdown("""
                <style>
+                .st-emotion-cache-ocqkz7 img {
+                        width: 300px;
+                        height: 200px;
+                        object-fit: cover;
+                        border-radius: 5px;
+                    }
                
-                height: 200px;
-                object-fit: cover;
-                border-radius: 5px
+               
+               
                img {
                    cursor: pointer;
                    transition: all .3s ease-in-out;
-                   width: 300px;
-                   height: 200px;
-                   object-fit: cover;
-                   border-radius: 5px
                    
                }
                img:hover {
