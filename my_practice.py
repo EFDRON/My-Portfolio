@@ -80,15 +80,6 @@ def main():
         gap: 1rem;
     }
 
- 
-
-
-    .st-emotion-cache-ocqkz7 img {
-        width: 300px;
-        height: 200px;
-        object-fit: cover;
-        border-radius: 5px;
-}
 
     .st-emotion-cache-ocqkz7 {
     display: flex;
@@ -124,12 +115,14 @@ def main():
 
 
         with col2:
-            st.image("images/profile3 (1).png")
+            st.image("images/profile3.png")
             # Define the CSS for the hover effect
 
             # Inject the CSS into the Streamlit app
             st.markdown("""
     <style>
+    
+   
     img {
         cursor: pointer;
         transition: all .3s ease-in-out;
@@ -177,9 +170,18 @@ def main():
             st.write("Object Detection & Recognition")
             st.markdown("""
                <style>
+               
+                height: 200px;
+                object-fit: cover;
+                border-radius: 5px
                img {
                    cursor: pointer;
                    transition: all .3s ease-in-out;
+                   width: 300px;
+                   height: 200px;
+                   object-fit: cover;
+                   border-radius: 5px
+                   
                }
                img:hover {
                    transform: scale(1.1);
