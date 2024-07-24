@@ -81,7 +81,7 @@ def main():
     }
 
     .st-emotion-cache-ocqkz7 img {
-        width: 200px; /* Set the desired width */
+        width: 300px; /* Set the desired width */
         height: 200px; /* Set the desired height */
         object-fit: cover; /* Cover the container without distortion */
         border-radius: 5px; /* Optional: Add border radius for rounded corners */
