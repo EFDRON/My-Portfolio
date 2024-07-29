@@ -121,7 +121,7 @@ def main():
             # Inject the CSS into the Streamlit app
             st.markdown("""
     <style>
-    img[src="ihttps://efakedir.streamlit.app/~/+/media/ae13e6545…fee45718e5ddcdaff89585ab565d94922dc99367818d2.png"] {
+    img {
         animation: zoom 1.5s infinite alternate-reverse;
     
     }
